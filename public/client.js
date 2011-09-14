@@ -1,5 +1,5 @@
 jQuery('document').ready(function($) {
-    var socket = io.connect('http://socks.dhyun.cloud9ide.com', {
+    var socket = io.connect('http://socksy.dhyun.cloud9ide.com', {
         'sync disconnect on unload': false
     });
     var users = $('#connectionCounter');

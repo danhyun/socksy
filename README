@@ -12,3 +12,5 @@ This game requires:
     socket.io
 
 I am using jQuery on the front end.
+
+Remember to change the socket target in public/client.js to match your socket target on line 2.
