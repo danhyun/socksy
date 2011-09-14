@@ -1,0 +1,14 @@
+This is a simple app to show the responsiveness of node.js/socket.io
+
+Feel free to poke around the code, there isn't much of it.
+
+To play the game:
+    Enter your name and wait for other people to join
+    Click on the other names to steal their points
+
+This game requires:
+    node.js
+    express.js
+    socket.io
+
+I am using jQuery on the front end.
